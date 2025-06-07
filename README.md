@@ -1,6 +1,5 @@
-![image](https://github.com/rukenerpolat/reactjs-todolist/assets/72344293/757f239e-7735-4c7d-b51d-d9a93d995f7e)
+![todo](https://github.com/user-attachments/assets/891f204f-b8c0-4b4d-b13c-248ca14b803f)
 
- 
 <h1 align="center">ToDo App with React.js (CRUD)</h1>
 
 
